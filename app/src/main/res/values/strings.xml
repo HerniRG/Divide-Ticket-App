@@ -1,0 +1,27 @@
+<!--
+  ~ Copyright (c) 2023. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  ~ Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
+  ~ Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
+  ~ Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
+  ~ Vestibulum commodo. Ut rhoncus gravida arcu.
+  -->
+
+<resources>
+    <string name="app_name">Divide Ticket App</string>
+    <string name="ticket_data">Datos del Ticket</string>
+    <string name="calculate">Calcular</string>
+    <string name="ticket_image">imagen de un ticket</string>
+    <string name="clear">Limpiar Datos</string>
+    <string name="enter_total_amount">importe total</string>
+    <string name="enter_number_of_people">nº de comensales</string>
+    <string name="barcode_image">imagen de un codigo de barras</string>
+    <string name="app_title">Divide Ticket App</string>
+    <string name="no_tip">0%</string>
+    <string name="tip_5_percent">5%</string>
+    <string name="tip_10_percent">10%</string>
+    <string name="tip_label">Propina</string>
+    <string name="back">Volver</string>
+    <string name="result_card_title">Resultado de la Cuenta</string>
+    <string name="error_Data">Error: Datos no válidos</string>
+    <string name="register">Registro</string>
+</resources>
