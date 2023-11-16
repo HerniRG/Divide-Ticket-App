@@ -1,4 +1,4 @@
-# Calculadora de Propina
+# Divide Ticket App
 
 Esta aplicación Android, desarrollada en Kotlin y XML, te permite calcular la propina, el importe total con propina y la cantidad que debe pagar cada comensal en función del importe del ticket, el número de comensales y el porcentaje de propina seleccionado.
 
